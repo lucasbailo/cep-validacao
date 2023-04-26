@@ -48,11 +48,9 @@ cep.addEventListener("focusout", () => buscaEndereco(cep.value))
 
 ### You can:
 
-- Say a number to try to guess the secret number;
-- End the game by saying "Fim de jogo" - the english version will be released soon;
-- Receive hints about your guess;
-- Play again when you say the right guess;
-- See the answer by acessing the console and test the hints.
+- Type your adress
+- Validate your CEP.
+- Auto complete using only your CEP.
 
 ## Author
 
