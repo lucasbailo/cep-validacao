@@ -44,12 +44,12 @@ cep.addEventListener("focusout", () => buscaEndereco(cep.value))
 - JavaScript;
 - Async functions.
 
-## Test the project yourself: [Teste the project here!!!](#)
+## Test the project yourself: [Teste the project here!!!](https://cep-validacao.vercel.app/)
 
 ### You can:
 
-- Type your adress
-- Validate your CEP.
+- Type your adress;
+- Validate your CEP;
 - Auto complete using only your CEP.
 
 ## Author
